@@ -1,0 +1,43 @@
+
+
+{
+    
+    "intents": [
+        {
+            "intent": "greetings",
+            "examples": [
+                "Hi",
+                "Hello",
+                "Good morning",
+                "Good afternoon",
+                "Good evening"
+            ]
+        },
+        {
+            "intent": "ask_about_chatbot",
+            "examples": [
+                "What can you do?",
+                "What can you help me with?",
+                "What do you know about?",
+                "What can you tell me about ChatGTP?"
+            ]
+        },
+        {
+            "intent": "ask_about_clone",
+            "examples": [
+                "What is a clone?",
+                "What is ChatGTP clone?",
+                "What does it do?",
+                "What can I do with a clone?"
+            ]
+        },
+        {
+            "intent": "fom ya mojo",
+            "examples": [
+                "mojo hana fom",
+                "mojo ako na fom",
+                "mojo hataki fom"
+            ]
+        }
+    ]
+}
